@@ -1,0 +1,6 @@
+projectKey=devsecops-flask-app
+serverUrl=https://dd27-46-150-68-67.ngrok-free.app
+serverVersion=25.4.0.105899
+dashboardUrl=https://dd27-46-150-68-67.ngrok-free.app/dashboard?id=devsecops-flask-app
+ceTaskId=97aab88f-45bd-45b4-a03a-47caedebbc49
+ceTaskUrl=https://dd27-46-150-68-67.ngrok-free.app/api/ce/task?id=97aab88f-45bd-45b4-a03a-47caedebbc49
